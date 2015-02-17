@@ -1,0 +1,5 @@
+E:\VS Projects\Redify.RedPill\Readify.RedPill.OldService\bin\Debug\Readify.RedPill.OldService.exe.config
+E:\VS Projects\Redify.RedPill\Readify.RedPill.OldService\bin\Debug\Readify.RedPill.OldService.exe
+E:\VS Projects\Redify.RedPill\Readify.RedPill.OldService\bin\Debug\Readify.RedPill.OldService.pdb
+E:\VS Projects\Redify.RedPill\Readify.RedPill.OldService\obj\Debug\Readify.RedPill.OldService.exe
+E:\VS Projects\Redify.RedPill\Readify.RedPill.OldService\obj\Debug\Readify.RedPill.OldService.pdb

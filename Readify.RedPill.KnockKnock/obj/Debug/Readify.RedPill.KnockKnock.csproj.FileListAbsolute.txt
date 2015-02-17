@@ -1,0 +1,5 @@
+E:\VS Projects\Redify.RedPill\Readify.RedPill.KnockKnock\bin\Readify.RedPill.KnockKnock.dll.config
+E:\VS Projects\Redify.RedPill\Readify.RedPill.KnockKnock\bin\Readify.RedPill.KnockKnock.dll
+E:\VS Projects\Redify.RedPill\Readify.RedPill.KnockKnock\bin\Readify.RedPill.KnockKnock.pdb
+E:\VS Projects\Redify.RedPill\Readify.RedPill.KnockKnock\obj\Debug\Readify.RedPill.KnockKnock.dll
+E:\VS Projects\Redify.RedPill\Readify.RedPill.KnockKnock\obj\Debug\Readify.RedPill.KnockKnock.pdb
